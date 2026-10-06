@@ -1,0 +1,9 @@
+{
+  "movimentacoes": [
+    { "codigoProduto": 101, "tipo": "Entrada", "quantidade": 50, "descricao": "Entrada de mercadoria - pedido 455" },
+    { "codigoProduto": 101, "tipo": "Saida", "quantidade": 25, "descricao": "Separação para expedição" },
+    { "codigoProduto": 102, "tipo": "Saida", "quantidade": 15, "descricao": "Venda balcão" },
+    { "codigoProduto": 103, "tipo": "Entrada", "quantidade": 100, "descricao": "Reposição do fornecedor" },
+    { "codigoProduto": 105, "tipo": "Saida", "quantidade": 120, "descricao": "Exemplo de saída inválida por saldo insuficiente" }
+  ]
+}
